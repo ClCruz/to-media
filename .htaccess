@@ -2,3 +2,4 @@
   RewriteEngine On
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule ^(.*)$ card.png
+
