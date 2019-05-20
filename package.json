@@ -1,0 +1,19 @@
+{
+  "name": "to-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gabrielcraveiro@bitbucket.org/intuitisolucoestecnologicas/to-media.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/intuitisolucoestecnologicas/to-media#readme",
+  "dependencies": {
+    "imagemin-keep-folder": "^5.3.2"
+  }
+}
